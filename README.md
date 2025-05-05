@@ -116,7 +116,11 @@ streamlit run main.py
 * Final Dense layer to predict closing price
 * Trained on 80% of historical closing prices, 20% used for testing
 ---
-
+![App Screenshot](screenshot/1.png)
+![App Screenshot](screenshot/2.png)
+![App Screenshot](screenshot/3.png)
+![App Screenshot](screenshot/4.png)
+![App Screenshot](screenshot/5.png)
 ## 🤝 Contributing
 
 Pull requests and suggestions are welcome. For major changes, please open an issue first to discuss what you would like to change.
